@@ -1,1 +1,4 @@
-tmp_resources
+#tmp_resources
+**/.DS_store
+tmp_resources/stain estimation+normalization reading/Microscopy stain variations and how to estimate them _ by Prof. Marc Aubreville _ Towards Data Science_files/
+tmp_resources/scikit-image
